@@ -22,3 +22,9 @@
 1. courses for learning HTML, CSS and JavaScript in local school "Decode" (www.decode.kz);
 2. online courses Responsive Web Design (which includes HTML & CSS) & JavaScript Algorithms and Data Structures at www.freecodecamp.org (my account: https://www.freecodecamp.org/fcc4bace300-339f-4873-a1bc-4b11b3322783);
 3. JavaScript course at RSSchool (https://rollingscopes.com/);
+
+**English:** 
+**Upper-Intermediate (B2):**
+* high school with advanced curriculum in English (technical translator diploma); 
+* bachelor's degree in International Economic Relations (with deep study of English language); 
+* 14 years of working experience within one of top 3 banks in Kazakhstan at International department (correspondence, conference calls and meetings with representatives of foreign financial institutions all over the world)
